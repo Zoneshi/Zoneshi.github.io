@@ -1,0 +1,28 @@
+# jemdoc: menu{MENU}{research.html}
+= 科研成果
+
+== 期刊论文
+
+. *石忠佼*, 朱化杰, 赵良玉*, 刘志杰. [https://hkxb.buaa.edu.cn/CN/Y2022/V43/I3/325068 考虑舵机动力学的旋转弹自适应解耦控制]\[J\]. 航空学报, 2022, 43(3): 325068-325068. \[[file/shi2022.pdf PDF]\]
+. Zhekun Cheng, Liangyu Zhao, *Zhongjiao Shi**. [https://doi.org/10.1109/ACCESS.2022.3170583 Decentralized multi-UAV path planning based on two-layer coordinative framework for formation rendezvous]\[J\]. IEEE Access, 2022, 10: 45695 - 45708. \[[file/Decentralized_Multi-UAV_Path_Planning_Based_on_Two-Layer_Coordinative_Framework_for_Formation_Rendezvous.pdf PDF]\]
+. *Zhongjiao Shi*, Liangyu Zhao*, Zhijie Liu. [https://doi.org/10.1016/j.cja.2020.09.047 Variational method based robust adaptive control for a guided spinning rockets] \[J\]. Chinese Journal of Aeronautics, 2021, 34(3): 164-175.
+. *Zhongjiao Shi*, Liangyu Zhao*. [https://doi.org/10.1016/j.jfranklin.2020.03.018 Learning-based adaptive control with an accelerated iterative adaptive
+law]\[J\]. Journal of The Franklin Institute, 2020, 357(10): 5831-5851.
+. Liangyu Zhao\*, *Zhongjiao Shi*, Yeqing Zhu. [https://doi.org/10.1016/j.ast.2018.04.012 Acceleration autopilot for a guided spinning rocket via adaptive output feedback]\[J\]. Aerospace Science and Technology, 2018, 77: 573-584.
+. *Zhongjiao Shi*, Liangyu Zhao*, Yeqing Zhu. [https://doi.org/10.1155/2018/1427487 Robust adaptive output feedback control for a guided spinning rocket]\[J\]. International Journal of Aerospace Engineering, 2018, 1427487.
+. *Zhongjiao Shi*, Liangyu Zhao*. [https://doi.org/10.1016/j.ast.2017.03.017 Robust model reference adaptive control based on linear matrix inequality]\[J\]. Aerospace Science and Technology, 2017, (66): 152-159.
+. *Zhongjiao Shi*, Liangyu Zhao*. [https://doi.org/10.1177/0954410016629501 Effects of aeroelasticity on coning motion of a spinning missile]\[J\]. Proceedings of the Institution of Mechanical Engineers, Part G: Journal of Aerospace Engineering, 2016, 230(14): 2581-2595.
+. *石忠佼*, 谢浩怡, 林蔚, 赵良玉*. [http://pub.gthjjs.com/\#/digest?ArticleID=1321 单通道控制的旋转弹锥形运动稳定性研究]\[J\].固体火箭技术, 2015, (02):156-159.
+
+== 会议论文
+. Huajie Zhu, *Zhongjiao Shi**, Liangyu Zhao. [https://doi.org/10.1109/CAC53003.2021.9727684 Memory-augmented adaptive control with parameter convergence guarantee]\[C\]. 2021 Chinese Automation Congress, Beijing, China, 2021.
+. *Zhongjiao Shi*, Liangyu Zhao*, Yong Zhao, Fengjie Gao. [https://doi.org/10.1109/CAC48633.2019.8996671 Transient performance analysis of adaptive control with control architecture modification]\[C\]. 2019 Chinese Automation Congress, Hangzhou, China, 2019.
+. *Zhongjiao Shi*, Liangyu Zhao*. [https://doi.org/10.23919/ChiCC.2017.8027902 Adaptive output feedback autopilot design for spinning projectiles]\[C\].The 36th Chinese Control Conference, Dalian, China, 2017.
+. *Zhongjiao Shi*, Liangyu Zhao*. [https://doi.org/10.1109/ChiCC.2016.7555079 On the autopilot design for a quadrotor during landing phase]\[C\]. The 35th Chinese Control Conference, Chengdu, China, 2016.
+. *Zhongjiao Shi*, Liangyu Zhao*. [https://doi.org/10.2514/6.2016-0541 Coning motion instability of a spinning missile induced by aeroelasticity]\[C\]. AIAA Atmospheric Flight Mechanics Conference, San Diego, CA, USA, 2016.
+
+\* 代表通讯作者
+
+== 专著、译著
+. 赵良玉，石忠佼. [https://item.jd.com/12617913.html 模型参考自适应控制导论]\[M\]. 北京: 机械工业出版社, 2019. (翻译自 Nhan T. Nguyen. [https://doi.org/10.1007/978-3-319-56393-0 Model-Reference Adaptive Control--A Primer]\[M\]. Springer International Publishing AG 2018.)
+
