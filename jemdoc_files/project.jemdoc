@@ -9,3 +9,14 @@
 === 国家自然科学基金青年项目，2022.01-2024.12
 本项目以一类自旋飞行器为研究对象，针对其在大机动飞行过程中遇到的气动不确定、模型非线性、系统参数快时变等问题开展在线自学习控制器设计的研究。
 ~~~
+
+== 合作单位
+{{
+    <div class="row">
+        <div class="row">
+            <img src="image/project/NSFC.png" style="width:30%">
+            <img src="image/project/BISTU.png" style="width:25%">
+            <img src="image/project/boying.jpeg" style="width:35%">
+        </div>
+    </div>
+}}
